@@ -22,3 +22,11 @@ This is a game where you use a slider to break all the bricks.
 <p>Date: December 2022</p>
 
 <p>AnagramTester.java is the main file to run, when running you can use either text file small-words.txt or words.txt. Then, you can input a word and get anagrams of the word at a max word length.</p>
+
+## Logisim Evolution Computer Architecture Projects
+(requires Logisim Evolution to view/run)
+<p>These projects are all simulations of working parts in computers</p>
+1. ARM Processor: ARM_1.circ
+2. Binary Counter: counter.circ
+3. A 4 by 3 memory: memory_4_by_3.circ
+4. Ripple Carry Adder: ripple_carry_adder.circ
