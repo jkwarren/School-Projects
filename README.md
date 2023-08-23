@@ -26,7 +26,7 @@ This is a game where you use a slider to break all the bricks.
 ## Logisim Evolution Computer Architecture Projects
 <p>(requires Logisim Evolution to view/run)<p/>
 <p>These projects are all simulations of working parts in computers</p>
-1. ARM Processor: ARM_1.circ
-2. Binary Counter: counter.circ
-3. A 4 by 3 memory: memory_4_by_3.circ
-4. Ripple Carry Adder: ripple_carry_adder.circ
+* ARM Processor: ARM_1.circ
+* Binary Counter: counter.circ
+* A 4 by 3 memory: memory_4_by_3.circ
+* Ripple Carry Adder: ripple_carry_adder.circ
