@@ -2,7 +2,7 @@
 Here are school Projects I have worked on.
 
 ## Python Final Project 2022
-<p>By Jessica Warren and Marco Motroni</p>
+<p>By: Jessica Warren and Marco Motroni</p>
 <p>date: May 2022</p>
 
 <p> Assignment 10:
@@ -11,7 +11,7 @@ This is a game where you use a slider to break all the bricks.
 
 
 ## Java Project in Data Structures Class
-<p>Name: Jessica Warren<p/>
+<p>By: Jessica Warren<p/>
 <p>Date: November 2022 </p>
 
 <p>This is an example gradebook; it takes a roster of students with their graduation year, username, major, and grades.</p>
