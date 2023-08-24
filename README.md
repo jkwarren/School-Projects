@@ -1,6 +1,12 @@
 # School-Projects
-Here are school Projects I have worked on.
+Here are the school projects I have worked on.
 
+## A small game in NetLogo Programming Language
+<p> to download the NetLogo application or to use the online version: https://ccl.northwestern.edu/netlogo/ <p/>
+the file: termprojectCS2021.nlogo
+
+<p>This is a game where you run around as a farmer trying to feed chickens that don't want to be close to you.</p>
+  
 ## Python Final Project 2022
 <p>By: Jessica Warren and Marco Motroni</p>
 <p>date: May 2022</p>
@@ -32,7 +38,4 @@ This is a game where you use a slider to break all the bricks.
 <p>- A 4 by 3 memory: memory_4_by_3.circ</p>
 <p>- Ripple Carry Adder: ripple_carry_adder.circ</p>
 
-## A small game in NetLogo Programming Language
-<p> to download the NetLogo application: https://ccl.northwestern.edu/netlogo/ <p/>
-the file: 
 
