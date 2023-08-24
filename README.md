@@ -19,14 +19,14 @@ This is a game where you use a slider to break all the bricks.
 ## Java Project in Data Structures Class
 <p>By: Jessica Warren<p/>
 <p>Date: November 2022 </p>
-
+<p>Located in the GradeBook Project folder</p>
 <p>This is an example gradebook; it takes a roster of students with their graduation year, username, major, and grades.</p>
 <p> Things that can be printed: print grades by ID, print by major, change homework scores, and remove people from the roster</p>
 
 ## Java Project using trees to find anagrams of words in Data Structures Class
 <p> By: Jessica Warren</p>
 <p>Date: December 2022</p>
-
+<p>Located in the Anagram Project folder</p>
 <p>AnagramTester.java is the main file to run, when running you can use either text file small-words.txt or words.txt. Then, you can input a word and get anagrams of the word at a max word length.</p>
 
 ## Logisim Evolution Computer Architecture Projects
