@@ -32,5 +32,7 @@ This is a game where you use a slider to break all the bricks.
 <p>- A 4 by 3 memory: memory_4_by_3.circ</p>
 <p>- Ripple Carry Adder: ripple_carry_adder.circ</p>
 
-
+## A small game in NetLogo Programming Language
+<p> to download the NetLogo application: https://ccl.northwestern.edu/netlogo/ <p/>
+the file: 
 
