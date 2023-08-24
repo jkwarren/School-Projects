@@ -4,7 +4,7 @@ Here are the school projects I have worked on.
 ## A small game in NetLogo Programming Language
 <p> to download the NetLogo application or to use the online version: https://ccl.northwestern.edu/netlogo/ <p/>
 the file: termprojectCS2021.nlogo
-
+<p>Date: December 2021</p>
 <p>This is a game where you run around as a farmer trying to feed chickens that don't want to be close to you.</p>
   
 ## Python Final Project 2022
