@@ -39,9 +39,15 @@ This is a game where you use a slider to break all the bricks.
 <p>- Ripple Carry Adder: ripple_carry_adder.circ</p>
 
 ## Unity 3D Adventure Puzzle Game: Fire in C#
-<p> By: Jessica Warren</p>
+<p> By: Jessica Warren (group project)</p>
 <p>Date: Spring 2024</p>
 <p>Scripts located in the Scripts folder</p>
 <p>Here is a link to the game, it can only run on windows, https://dis-cph.itch.io/fire?password=DIS</p>
+
+## Big Data ML project: in Python
+<p> By: Jessica Warren (group project)</p>
+<p>Date: Spring 2024</p>
+<p>BigDataFinal_Books_to_movies.ipynb</p>
+<p>Here is the Medium article describing the project https://medium.com/@jkwarren_10080/books-to-movies-2bfe65449d47</p>
 
 
